@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyStoryApp</string>
+    <string name="pass_error">Minimal 8 Karakter</string>
+    <string name="email">Email</string>
+    <string name="password">Kata sandi</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="story_app">Aplikasi Cerita</string>
+    <string name="logout">Keluar</string>
+    <string name="description">Deskripsi</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Album</string>
+    <string name="add">Tambah</string>
+    <string name="empty_name">Masukkan Nama Anda</string>
+    <string name="empty_email">Masukkan Email Anda</string>
+    <string name="empty_password">Masukkan Kata Sandi  Anda</string>
+    <string name="detail">Detail</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="setting">Pengaturan</string>
+    <string name="empty_description">Di isi dloo</string>
+    <string name="empty_pict">Masukkan gambar dloo</string>
+
+</resources>

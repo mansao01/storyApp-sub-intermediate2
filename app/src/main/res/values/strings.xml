@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyStoryApp</string>
+    <string name="pass_error">Minimum 8 Characters</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="story_app">Story App</string>
+    <string name="logout">Logout</string>
+    <string name="description">Description</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="add">Add</string>
+    <string name="empty_name">Enter your name</string>
+    <string name="empty_email">Enter your email</string>
+    <string name="empty_password">Enter your password</string>
+    <string name="detail">Detail</string>
+    <string name="add_story">Add Story</string>
+    <string name="setting">Setting</string>
+    <string name="empty_description">Di isi dloo</string>
+    <string name="empty_pict">Masukkan gambar dloo</string>
+    <string name="location">Location</string>
+    <string name="story_location">Story location</string>
+</resources>
